@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTACommand",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTACommand",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

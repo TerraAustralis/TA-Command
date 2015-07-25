@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TATestAuthorisedCommand",
+	"pools" : [
+		 ],
+	"super" : "TAAuthorisedCommand",
+	"type" : "normal" }

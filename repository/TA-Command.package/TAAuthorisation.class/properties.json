@@ -1,0 +1,16 @@
+{
+	"category" : "TA-Command",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"person",
+		"authority",
+		"permissions" ],
+	"name" : "TAAuthorisation",
+	"pools" : [
+		 ],
+	"super" : "TAObject",
+	"type" : "normal" }

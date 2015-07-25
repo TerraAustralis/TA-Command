@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"result" ],
+	"name" : "TACommandTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

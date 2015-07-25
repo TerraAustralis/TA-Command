@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Command",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAInvalidArgumentsError",
+	"pools" : [
+		 ],
+	"super" : "TACommandArgumentsError",
+	"type" : "normal" }
