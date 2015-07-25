@@ -1,13 +1,13 @@
 {
-	"category" : "TA-Tests-Commands",
+	"category" : "TA-Tests-Command",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"result" ],
-	"name" : "TACommandTests",
+		 ],
+	"name" : "TACommandProcessorTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
